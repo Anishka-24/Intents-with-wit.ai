@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Text to Speech (Windows).unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Speech to Text (Windows).unity
+    guid: 8db9d381e14ac444c92b60f45e4a367f
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: 4b42fcf32a5369b4d8464c669365b65c
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a70790b16d5a3054593d76aee8856f19
+  - enabled: 1
+    path: Assets/Scenes/Intent.unity
+    guid: abc2404f4b8e3124ba23e803ce256960
+  - enabled: 1
+    path: Assets/Scenes/FireDrill.unity
+    guid: 6a38a3f460469c24288c156f911ab1d4
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 1fa36c07c9e151140916a071ee06ec74
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 141d1f0f7b94e68408dd9939385d27fe, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a4bf8535c40a58d4291a9f1c31ab8fa3, type: 2}
+  m_UseUCBPForAssetBundles: 0
